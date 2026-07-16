@@ -15,8 +15,7 @@ AI-powered Video Assistant that transcribes videos, generates intelligent summar
 
 ## 🚀 Demo
 
-🌐 **Live Demo:** https://your-streamlit-app.streamlit.app
-
+🌐 **Live Demo:** https://retrievia.streamlit.app/
 📂 **GitHub:** https://github.com/shivansh4565/Retrievia
 
 ---
